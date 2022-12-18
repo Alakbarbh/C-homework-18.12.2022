@@ -1,0 +1,18 @@
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\Csharp  16.12.2022.exe
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\Csharp  16.12.2022.deps.json
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\Csharp  16.12.2022.runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\Csharp  16.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\Csharp  16.12.2022.pdb
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\refint\Csharp  16.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.pdb
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\ref\Csharp  16.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\ServisLayer.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\bin\Debug\net6.0\ServisLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\Csharp  16.12.2022\obj\Debug\net6.0\Csharp  16.12.2022.csproj.CopyComplete

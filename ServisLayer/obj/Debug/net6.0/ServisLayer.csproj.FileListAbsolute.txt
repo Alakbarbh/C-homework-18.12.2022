@@ -1,0 +1,12 @@
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\bin\Debug\net6.0\ServisLayer.deps.json
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\bin\Debug\net6.0\ServisLayer.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\bin\Debug\net6.0\ServisLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\refint\ServisLayer.dll
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ServisLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Csharp  16.12.2022\ServisLayer\obj\Debug\net6.0\ref\ServisLayer.dll
